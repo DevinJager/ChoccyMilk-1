@@ -9,3 +9,6 @@ The github repo will be created as a new project in android studio.
 BarCode Api, basic
 https://codelabs.developers.google.com/codelabs/bar-codes/#0
 
+Youtube video exposing me to some java in Android Studio
+https://www.youtube.com/watch?v=FfgQRjR7YXY
+
